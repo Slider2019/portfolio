@@ -110,7 +110,7 @@ $(function () {
     },
   });
 
-  bar.animate(0.95);
+  bar.animate(0.80);//Porcentaje del circulo de progreso en el menu izquierdo
 
   var bar = new ProgressBar.Circle(circleprog2, {
     strokeWidth: 7,
@@ -128,7 +128,7 @@ $(function () {
     },
   });
 
-  bar.animate(0.91);
+  bar.animate(0.80);
 
   var bar = new ProgressBar.Circle(circleprog3, {
     strokeWidth: 7,
@@ -146,7 +146,7 @@ $(function () {
     },
   });
 
-  bar.animate(0.95);
+  bar.animate(0.75);
 
   var bar = new ProgressBar.Circle(circleprog4, {
     strokeWidth: 7,
@@ -164,7 +164,7 @@ $(function () {
     },
   });
 
-  bar.animate(0.93);
+  bar.animate(0.70);
 
   var bar = new ProgressBar.Circle(circleprog5, {
     strokeWidth: 7,
@@ -182,7 +182,7 @@ $(function () {
     },
   });
 
-  bar.animate(0.95);
+  bar.animate(0.80);
 
   var bar = new ProgressBar.Circle(circleprog6, {
     strokeWidth: 7,
@@ -200,7 +200,7 @@ $(function () {
     },
   });
 
-  bar.animate(0.8);
+  bar.animate(0.80);
 
 
   var bar = new ProgressBar.Line(lineprog1, {
@@ -235,7 +235,7 @@ $(function () {
     },
   });
 
-  bar.animate(0.93);
+  bar.animate(0.50);
 
   var bar = new ProgressBar.Line(lineprog3, {
     strokeWidth: 1.72,
@@ -286,7 +286,7 @@ $(function () {
     },
   });
 
-  bar.animate(0.9);
+  bar.animate(1.0);
 
   // Contact form
   $(".art-input").keyup(function () {

@@ -192,7 +192,7 @@ a:focus {
 blockquote {
     margin-top: 30px;
     margin-bottom: 30px;
-    background: #FFC107;
+    background: #009aff;
     color: #191923;
     padding: 30px;
     padding-left: 35px;
@@ -261,7 +261,7 @@ blockquote:after {
     width: 10px;
     height: 10px;
     border-radius: 50%;
-    border: solid 2px #FFC107;
+    border: solid 2px #009aff;
     background: transparent;
     -webkit-box-shadow: 0 3px 8px 0 rgba(15, 15, 20, 0.2);
     box-shadow: 0 3px 8px 0 rgba(15, 15, 20, 0.2);
@@ -314,13 +314,13 @@ link
 /* line 227, ../scss/_common.scss */
 
 .art-link.art-color-link {
-    color: #FFC107;
+    color: #009aff;
 }
 
 /* line 230, ../scss/_common.scss */
 
 .art-link.art-color-link:hover {
-    color: #FFC107;
+    color: #009aff;
     text-shadow: 0 0 3px rgba(250, 250, 252, 0.4);
     -webkit-transform: translateX(5px);
     transform: translateX(5px);
@@ -416,7 +416,7 @@ button
     -webkit-box-shadow: 0 1px 4px 0 rgba(15, 15, 20, 0.1);
     box-shadow: 0 1px 4px 0 rgba(15, 15, 20, 0.1);
     color: #20202a;
-    background: #FFC107;
+    background: #009aff;
     letter-spacing: 1.5px;
     font-weight: 600;
     display: -webkit-inline-box;
@@ -655,7 +655,7 @@ app marcup
 /* line 61, ../scss/_markup.scss */
 
 .art-preloader-load path:last-child {
-    stroke: #FFC107;
+    stroke: #009aff;
 }
 
 /* ----- scroll frame ----- */
@@ -1260,7 +1260,7 @@ info bar
     right: 5px;
     height: 15px;
     width: 15px;
-    background: #FFC107;
+    background: #009aff;
     border-radius: 50%;
     z-index: 0;
     -webkit-transition: 0.4s ease-in-out;
@@ -1373,7 +1373,7 @@ info bar
 /* line 199, ../scss/_info-bar.scss */
 
 .art-info-bar .art-name:hover a {
-    color: #FFC107;
+    color: #009aff;
 }
 
 /* line 205, ../scss/_info-bar.scss */
@@ -1483,7 +1483,7 @@ info bar
     content: "\f00c";
     margin-right: 5px;
     font-size: 9px;
-    color: #FFC107;
+    color: #009aff;
     margin-right: 10px;
 }
 
@@ -1552,7 +1552,7 @@ info bar
 /* line 322, ../scss/_info-bar.scss */
 
 .art-line-progress path:last-child {
-    stroke: #FFC107;
+    stroke: #009aff;
 }
 
 /* line 330, ../scss/_info-bar.scss */
@@ -1564,7 +1564,7 @@ info bar
 /* line 333, ../scss/_info-bar.scss */
 
 .art-cirkle-progress path:last-child {
-    stroke: #FFC107;
+    stroke: #009aff;
 }
 
 /* ------------------------------
@@ -1891,7 +1891,7 @@ menu bar
 /* line 226, ../scss/_menu-bar.scss */
 
 .art-menu-bar .art-language-change li.art-active-lang {
-    background-color: #FFC107;
+    background-color: #009aff;
     -webkit-box-shadow: 0 3px 8px 0 rgba(15, 15, 20, 0.2);
     box-shadow: 0 3px 8px 0 rgba(15, 15, 20, 0.2);
 }
@@ -2099,7 +2099,7 @@ content
 
 .art-code i {
     font-style: normal;
-    color: #FFC107;
+    color: #009aff;
 }
 
 /* ----- counters ----- */
@@ -2127,7 +2127,7 @@ content
 /* line 104, ../scss/_content.scss */
 
 .art-counter-frame .art-counter-box .art-counter {
-    color: #FFC107;
+    color: #009aff;
     font-weight: 600;
     font-family: "Poppins", sans-serif;
     font-size: 22px;
@@ -2137,7 +2137,7 @@ content
 
 .art-counter-frame .art-counter-box .art-counter-plus {
     margin-left: 3px;
-    color: #FFC107;
+    color: #009aff;
     font-weight: 600;
     font-family: "Poppins", sans-serif;
     font-size: 22px;
@@ -2220,7 +2220,7 @@ content
     padding: 2px;
     width: 200px;
     text-align: center;
-    background: #FFC107;
+    background: #009aff;
 }
 
 /* line 175, ../scss/_content.scss */
@@ -2260,7 +2260,7 @@ content
 
 .art-price .art-price-body .art-price-cost .art-number {
     font-size: 32px;
-    color: #FFC107;
+    color: #009aff;
     font-weight: 600;
     margin-bottom: 0;
 }
@@ -2307,7 +2307,7 @@ content
     content: "\f00c";
     margin-right: 5px;
     font-size: 9px;
-    color: #FFC107;
+    color: #009aff;
 }
 
 /* line 237, ../scss/_content.scss */
@@ -2324,7 +2324,7 @@ content
     content: "\f00d";
     margin-right: 5px;
     font-size: 9px;
-    color: #FFC107;
+    color: #009aff;
 }
 
 /* line 252, ../scss/_content.scss */
@@ -2405,7 +2405,7 @@ content
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    color: #FFC107;
+    color: #009aff;
 }
 
 /* line 305, ../scss/_content.scss */
@@ -2470,7 +2470,7 @@ content
 
 .art-slider-navigation .swiper-pagination-bullet.swiper-pagination-bullet-active {
     width: 20px;
-    background-color: #FFC107;
+    background-color: #009aff;
     opacity: 1;
 }
 
@@ -2554,7 +2554,7 @@ content
     width: 15px;
     height: 15px;
     border-radius: 50%;
-    border: solid 3px #FFC107;
+    border: solid 3px #009aff;
     background: #1e1e28;
     -webkit-box-shadow: 0 3px 8px 0 rgba(15, 15, 20, 0.2);
     box-shadow: 0 3px 8px 0 rgba(15, 15, 20, 0.2);
@@ -2677,13 +2677,13 @@ content
 /* line 485, ../scss/_content.scss */
 
 .art-form-field textarea.art-active {
-    border-color: #FFC107;
+    border-color: #009aff;
 }
 
 /* line 489, ../scss/_content.scss */
 
 .art-form-field textarea:focus {
-    border-color: #FFC107;
+    border-color: #009aff;
 }
 
 /* line 494, ../scss/_content.scss */
@@ -2696,7 +2696,7 @@ content
 
 .art-contact-form .art-input.art-active+label,
 .art-contact-form .art-input:focus+label {
-    background: #FFC107;
+    background: #009aff;
     color: #20202a;
 }
 
@@ -2874,7 +2874,7 @@ content
 /* line 629, ../scss/_content.scss */
 
 .art-pagination .art-pagination-center a.art-active-pag {
-    color: #FFC107;
+    color: #009aff;
 }
 
 /* line 635, ../scss/_content.scss */
@@ -3314,7 +3314,7 @@ portfolio
 /* line 945, ../scss/_content.scss */
 
 .fancybox-progress {
-    background: #FFC107;
+    background: #009aff;
     z-index: 999999999999999999;
 }
 
@@ -3336,7 +3336,7 @@ portfolio
 /* line 961, ../scss/_content.scss */
 
 .fancybox-thumbs__list a:before {
-    border-color: #FFC107;
+    border-color: #009aff;
     -webkit-transition: 0.4s ease-in-out;
     transition: 0.4s ease-in-out;
 }
